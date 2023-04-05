@@ -31,8 +31,8 @@
 
 ###
 
-<!-- ## 🐦 Latest Tweet
-![](https://gtce.itsvg.in/api?username=skulljackr) -->
+## 🐦 Latest Tweet
+![](https://gtce.itsvg.in/api?username=skulljackr)
 ---
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
