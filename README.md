@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Siva Krishna Reddy and I'm a Software Engineer, from India, Sriharikota</h2>
+<h2 align="left">Hi 👋! My name is Siva Krishna Reddy and I'm a Software Engineer</h2>
 
 ###
 
